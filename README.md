@@ -1,5 +1,5 @@
 # softwarearchitecture
-queue management
-parcel processing
-updating
+queue management,
+parcel processing,
+updating,
 singleton logging
