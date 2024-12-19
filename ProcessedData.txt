@@ -1,0 +1,9 @@
+Processed Customer: X064, Parcel ID: X746, Weight: 4.0
+Processed Customer: X064, Parcel ID: X746, Weight: 4.0
+Processed Customer: X682, Parcel ID: X309, Weight: 1.0
+Processed Customer: X780, Parcel ID: X507, Weight: 5.0
+Processed Customer: X064, Parcel ID: X746, Weight: 4.0
+Processed Customer: X682, Parcel ID: X309, Weight: 1.0
+Processed Customer: X780, Parcel ID: X507, Weight: 5.0
+Processed Customer: X782, Parcel ID: X606, Weight: 8.0
+Processed Customer: X316, Parcel ID: X904, Weight: 4.0
