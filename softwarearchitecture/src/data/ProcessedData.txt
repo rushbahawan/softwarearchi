@@ -1,0 +1,21 @@
+Processed Customer: X064, Parcel ID: X746, Weight: 4.0
+Processed Customer: X064, Parcel ID: X746, Weight: 4.0
+Processed Customer: X682, Parcel ID: X309, Weight: 1.0
+Processed Customer: X780, Parcel ID: X507, Weight: 5.0
+Processed Customer: X064, Parcel ID: X746, Weight: 4.0
+Processed Customer: X682, Parcel ID: X309, Weight: 1.0
+Processed Customer: X780, Parcel ID: X507, Weight: 5.0
+Processed Customer: X782, Parcel ID: X606, Weight: 8.0
+Processed Customer: X316, Parcel ID: X904, Weight: 4.0
+Fee calculated for Customer: X682, Fee: 10.0
+Processed Customer: X682, Parcel ID: X309, Weight: 1.0, Days in Depot: 0
+Fee calculated for Customer: X780, Fee: 50.0
+Processed Customer: X780, Parcel ID: X507, Weight: 5.0, Days in Depot: 0
+Fee calculated for Customer: X782, Fee: 72.0
+Processed Customer: X782, Parcel ID: X606, Weight: 8.0, Days in Depot: 0
+Fee calculated for Customer: X316, Fee: 40.0
+Processed Customer: X316, Parcel ID: X904, Weight: 4.0, Days in Depot: 0
+Fee calculated for Customer: X278, Fee: 81.0
+Processed Customer: X278, Parcel ID: X198, Weight: 9.0, Days in Depot: 0
+Fee calculated for Customer: X682, Fee: 10.0
+Processed Customer: X682, Parcel ID: X309, Weight: 1.0, Days in Depot: 0
